@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I'm Jiwon, data analyst focused on product growth and go-to-market analytics. 
+#### I'm Jiwon, data analyst focused on product growth and go-to-market analytics. 
