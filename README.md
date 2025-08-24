@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-**MS Business Analytics @ UCLA**
-
 **Work Experience**
 - Data Analyst @Autodesk: Product analytics for customer payment experience design
 - Data Analyst @Healingpaper: Product analytics for B2B2C commerce platform app growth
