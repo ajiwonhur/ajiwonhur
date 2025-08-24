@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Data Analyst focused on product growth and go-to-market analytics.
 
 <!--
 **ajiwonhur/ajiwonhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 Data Analyst focused on product growth and go-to-market analytics
 
-🎓 MS Business Analytics student @ UCLA
+🎓 MS Business Analytics @ UCLA
 
 💼 Currently at Autodesk. Previously at AWS, B2B2C Mobile Commerce Platform Startup
 
