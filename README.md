@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 MS Business Analytics @ UCLA
+MS Business Analytics @ UCLA
 
-💼 Currently at Autodesk. Previously at AWS, B2B2C Mobile Commerce Platform Startup
+**Work Experience **
+- Data Analyst @Autodesk: Product analytics for customer payment experience design
+- Data Analyst @Healingpaper: Product analytics for B2B2C commerce platform app growth
+- Business Analyst @AWS: GTM Analytics & Program Management
 
-📈 Interests: Product Analytics, Experimentation, Causal Inference
+Interests: Product Analytics, Experimentation, Causal Inference
