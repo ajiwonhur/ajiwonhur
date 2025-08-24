@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Jiwon, data analyst focused on product growth and go-to-market analytics. 
+👩🏻‍💻 Data Analyst focused on product growth and go-to-market analytics
+
+🎓 MS Business Analytics student @ UCLA
+
+💼 Currently at Autodesk. Previously at AWS, B2B2C Mobile Commerce Platform Startup
+
+📈 Interests: Product Analytics, Experimentation, Causal Inference
